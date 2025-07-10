@@ -12,6 +12,7 @@ OBJECTIVES
 •	Provide strategic recommendations for business growth.
 
  TOOLS & TECHNOLOGIES
+ 
 1.Data Processing:
 •	Snowflake (SQL-based transformation)
 •	CSV Conversion from Excel
