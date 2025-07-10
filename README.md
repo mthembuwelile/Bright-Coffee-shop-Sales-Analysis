@@ -1,5 +1,6 @@
                                                       BRIGHT COFFEE SHOP SALES ANALYSIS
 OVERVIEW
+
 This project analyses historical transactional data from Bright Coffee Shop to generate actionable business insights for a newly appointed CEO. The main goal is to help drive growth in revenue and improve product performance by identifying sales trends, peak performance times, and top/low-performing products.
 
 AIM
