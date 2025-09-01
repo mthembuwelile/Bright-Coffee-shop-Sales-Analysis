@@ -39,7 +39,8 @@ OBJECTIVES
 •	Miro (for data flow and planning)
 
 SUMMARY FINDINGS 
-Key Insights
+
+
 Sales by Time of Day
 *Morning sales dominate (55.56%), more than double the afternoon and 6x evening sales.  
 - Lower Manhattan leads in morning sales, while Astoria peaks in the afternoon.
